@@ -2,7 +2,7 @@
 """
 Created on Wed May  6 22:05:06 2020
 
-@author: super
+@author: seigann
 """
 import numpy as np
 # from PIL import Image
