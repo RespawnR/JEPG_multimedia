@@ -3,7 +3,7 @@
 对AC系数 进行Z扫描，并进行游程编码（RLE）
 Created on Wed May  6 15:21:10 2020
 
-@author: super
+@author: seigann
 """
 import numpy as np
 
