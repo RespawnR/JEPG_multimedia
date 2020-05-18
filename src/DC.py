@@ -3,7 +3,7 @@
 对DC系数进行 DPCM差值编码
 Created on Wed May  6 14:20:32 2020
 
-@author: super
+@author: seigann
 """
 
 import numpy as np
