@@ -2,7 +2,7 @@
 """
 Created on Wed May  6 21:21:23 2020
 
-@author: super
+@author: seigann
 """
 class Coding:
     
