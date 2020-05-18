@@ -3,7 +3,7 @@
 量化模块
 Created on Tue May  5 21:54:24 2020
 
-@author: super
+@author: seigann
 """
 import numpy as np
 
