@@ -2,6 +2,9 @@
 Design and Implementation of JEPG Image Compression Encoding and Decoding
 
 JPEG图像压缩的编码与解码的设计与实现
+---
+2017级软件工程 2508程序作业
+---
 
 ## 1. JPEG图像的压缩与解压缩流程
 
@@ -31,4 +34,7 @@ JPEG图像压缩的编码与解码的设计与实现
 - reQuan_Y()：去量化
 - reQuan_C()：去量化
 ### DC.py, AC.py, coding.py
+功能：熵编码模块
 ### seJPEG.py
+功能：整体模块接口
+
