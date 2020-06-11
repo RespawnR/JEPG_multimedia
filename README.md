@@ -35,6 +35,22 @@ JPEG图像压缩的编码与解码的设计与实现
 - reQuan_C()：去量化
 ### DC.py, AC.py, coding.py
 功能：熵编码模块
+#### DC.py
+- DPCM()：差值编码
+- reDPCM()：逆差值编码
+#### AC.py
+- ZScan()：ZIGZAG扫描
+- reZScan()：逆ZIGZAG扫描
+- RLE()：行程编码
+- reRLE()：逆行程编码
+#### coding.py
+- VLI()：变长整数编码
+- reVLI()：逆变长整数编码
+- Huffman_Y()：对亮度分量进行霍夫曼编码
+- Huffman_C()：对色差分量进行霍夫曼编码
+- decoding()：解码
 ### seJPEG.py
 功能：整体模块接口
+- compress()：压缩的编码方法
+- decompress()：压缩的解码方法
 
